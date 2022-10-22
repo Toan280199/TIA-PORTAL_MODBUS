@@ -1,0 +1,93 @@
+2022-10-21 08:29:18.229 [p=1320, t=0x2af8] General: Project opened, dsncs="CC_HMI_V25Z_22_10_21_08_28_13" path="\\TOAN\WinCC_Project_HMI_V25Z\HMI_V25Z.mcp"
+2022-10-21 08:29:18.283 [p=1320, t=0x2af8] Sync: No redundant partner configured
+2022-10-21 08:29:18.302 [p=1320, t=0x2af8] Sync: Loading redundancy configuration
+2022-10-21 08:29:18.357 [p=1320, t=0x2af8] Sync: Redundancy is not activated
+2022-10-21 08:29:18.400 [p=1320, t=0x2af8] General: Disconnecting configuration.
+2022-10-21 08:29:18.426 [p=1320, t=0x2af8] General: Connecting configuration.
+2022-10-21 08:29:18.575 [p=1320, t=0x2af8] General: Connecting to runtime database "CC_HMI_V25Z_22_10_21_08_28_13R" on instance "TOAN\WINCC"
+2022-10-21 08:29:18.604 [p=1320, t=0x2af8] General: Checking and upgrading archive table schemas
+2022-10-21 08:29:18.617 [p=1320, t=0x2af8] General: Archive table schemas are up to date now
+2022-10-21 08:29:18.686 [p=1320, t=0x2af8] CUAServer::ConnectLicenseServices
+2022-10-21 08:29:18.695 [p=1320, t=0x2af8] CUAServer::DisconnectLicenseServices
+2022-10-21 08:29:18.709 [p=1320, t=0x2af8] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2022-10-21 08:29:18.718 [p=1320, t=0x2af8] CreateInstance of CLicenseTimerThread succeeded.
+2022-10-21 08:29:18.755 [p=1320, t=0x2af8] General: Project activate
+2022-10-21 08:29:18.763 [p=1320, t=0x2af8] General: Start deactivating the project...
+2022-10-21 08:29:18.774 [p=1320, t=0x2af8] Sync: Loading redundancy configuration
+2022-10-21 08:29:18.789 [p=1320, t=0x2af8] Sync: Redundancy is not activated
+2022-10-21 08:29:23.738 [p=1320, t=0x41c8] CUAServer::OnLicenseCheck (first call).
+2022-10-21 08:29:23.817 [p=1320, t=0x41c8] OnLicenseCheck: number of archives = 0.
+2022-10-21 08:29:23.889 [p=1320, t=0x3d40] General: ProjectEvent: 3
+2022-10-21 08:39:55.647 [p=1320, t=0x31f0] Sync: Redundancy configuration file changed
+2022-10-21 08:39:55.691 [p=1320, t=0x31f0] Sync: Loading redundancy configuration
+2022-10-21 08:39:55.712 [p=1320, t=0x31f0] Sync: Redundancy is not activated
+2022-10-21 08:40:00.741 [p=1320, t=0x31f0] Sync: Redundancy configuration file changed
+2022-10-21 08:40:00.783 [p=1320, t=0x31f0] Sync: Loading redundancy configuration
+2022-10-21 08:40:00.797 [p=1320, t=0x31f0] Sync: Redundancy is not activated
+2022-10-21 08:41:01.742 [p=1320, t=0x3d40] General: ProjectEvent: 4
+2022-10-21 08:41:01.743 [p=1320, t=0x2a90] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2022-10-21 08:41:01.790 [p=1320, t=0x3d40] General: Start deactivating the project...
+2022-10-21 08:41:01.833 [p=1320, t=0x3d40] General: Project deactivated
+2022-10-21 08:41:49.599 [p=1320, t=0x3d40] General: ProjectEvent: 2
+2022-10-21 08:41:49.633 [p=1320, t=0x3d40] General: Start closing the project...
+2022-10-21 08:41:49.645 [p=1320, t=0x3d40] General: Start deactivating the project...
+2022-10-21 08:41:49.656 [p=1320, t=0x3d40] CUAServer::DisconnectLicenseServices
+2022-10-21 08:41:49.924 [p=1320, t=0x3d40] General: Disconnecting configuration.
+2022-10-22 16:40:58.779 [p=14232, t=0x2938] General: Project opened, dsncs="CC_HMI_V25Z_22_10_22_16_31_08" path="\\TOAN\WinCC_Project_HMI_V25Z_1\HMI_V25Z.mcp"
+2022-10-22 16:40:58.818 [p=14232, t=0x2938] Sync: No redundant partner configured
+2022-10-22 16:40:58.823 [p=14232, t=0x2938] Sync: Loading redundancy configuration
+2022-10-22 16:40:58.859 [p=14232, t=0x2938] Sync: Redundancy is not activated
+2022-10-22 16:40:58.901 [p=14232, t=0x2938] General: Disconnecting configuration.
+2022-10-22 16:40:58.912 [p=14232, t=0x2938] General: Connecting configuration.
+2022-10-22 16:40:59.326 [p=14232, t=0x2938] General: Connecting to runtime database "CC_HMI_V25Z_22_10_22_16_31_08R" on instance "TOAN\WINCC"
+2022-10-22 16:40:59.377 [p=14232, t=0x2938] General: Checking and upgrading archive table schemas
+2022-10-22 16:40:59.391 [p=14232, t=0x2938] General: Archive table schemas are up to date now
+2022-10-22 16:40:59.556 [p=14232, t=0x2938] CUAServer::ConnectLicenseServices
+2022-10-22 16:40:59.613 [p=14232, t=0x2938] CUAServer::DisconnectLicenseServices
+2022-10-22 16:40:59.626 [p=14232, t=0x2938] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2022-10-22 16:40:59.636 [p=14232, t=0x2938] CreateInstance of CLicenseTimerThread succeeded.
+2022-10-22 16:40:59.784 [p=14232, t=0x2938] General: Project activate
+2022-10-22 16:40:59.870 [p=14232, t=0x2938] General: Start deactivating the project...
+2022-10-22 16:40:59.881 [p=14232, t=0x2938] Sync: Loading redundancy configuration
+2022-10-22 16:40:59.897 [p=14232, t=0x2938] Sync: Redundancy is not activated
+2022-10-22 16:41:03.913 [p=14232, t=0x29e4] General: ProjectEvent: 3
+2022-10-22 16:41:04.651 [p=14232, t=0x19f8] CUAServer::OnLicenseCheck (first call).
+2022-10-22 16:41:04.671 [p=14232, t=0x19f8] OnLicenseCheck: number of archives = 0.
+2022-10-22 16:52:21.634 [p=14232, t=0x29e4] General: ProjectEvent: 4
+2022-10-22 16:52:21.635 [p=14232, t=0x20b0] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2022-10-22 16:52:21.653 [p=14232, t=0x29e4] General: Start deactivating the project...
+2022-10-22 16:52:21.713 [p=14232, t=0x29e4] General: Project deactivated
+2022-10-22 16:52:44.689 [p=14232, t=0x29e4] General: ProjectEvent: 2
+2022-10-22 16:52:44.703 [p=14232, t=0x29e4] General: Start closing the project...
+2022-10-22 16:52:44.714 [p=14232, t=0x29e4] General: Start deactivating the project...
+2022-10-22 16:52:44.726 [p=14232, t=0x29e4] CUAServer::DisconnectLicenseServices
+2022-10-22 16:52:45.010 [p=14232, t=0x29e4] General: Disconnecting configuration.
+2022-10-22 16:54:11.625 [p=6104, t=0x49e0] General: Project opened, dsncs="CC_HMI_V25Z_22_10_22_16_31_08" path="\\TOAN\WinCC_Project_HMI_V25Z_1\HMI_V25Z.mcp"
+2022-10-22 16:54:11.674 [p=6104, t=0x49e0] Sync: No redundant partner configured
+2022-10-22 16:54:11.683 [p=6104, t=0x49e0] Sync: Loading redundancy configuration
+2022-10-22 16:54:11.729 [p=6104, t=0x49e0] Sync: Redundancy is not activated
+2022-10-22 16:54:11.748 [p=6104, t=0x49e0] General: Disconnecting configuration.
+2022-10-22 16:54:11.762 [p=6104, t=0x49e0] General: Connecting configuration.
+2022-10-22 16:54:11.915 [p=6104, t=0x49e0] General: Connecting to runtime database "CC_HMI_V25Z_22_10_22_16_31_08R" on instance "TOAN\WINCC"
+2022-10-22 16:54:11.953 [p=6104, t=0x49e0] General: Checking and upgrading archive table schemas
+2022-10-22 16:54:11.962 [p=6104, t=0x49e0] General: Archive table schemas are up to date now
+2022-10-22 16:54:12.201 [p=6104, t=0x49e0] CUAServer::ConnectLicenseServices
+2022-10-22 16:54:12.208 [p=6104, t=0x49e0] CUAServer::DisconnectLicenseServices
+2022-10-22 16:54:12.223 [p=6104, t=0x49e0] CoCreateInstance of CCLicense.CCLicense.1 succeeded.
+2022-10-22 16:54:12.231 [p=6104, t=0x49e0] CreateInstance of CLicenseTimerThread succeeded.
+2022-10-22 16:54:12.282 [p=6104, t=0x49e0] General: Project activate
+2022-10-22 16:54:12.297 [p=6104, t=0x49e0] General: Start deactivating the project...
+2022-10-22 16:54:12.309 [p=6104, t=0x49e0] Sync: Loading redundancy configuration
+2022-10-22 16:54:12.327 [p=6104, t=0x49e0] Sync: Redundancy is not activated
+2022-10-22 16:54:15.340 [p=6104, t=0x2898] General: ProjectEvent: 3
+2022-10-22 16:54:17.248 [p=6104, t=0x1324] CUAServer::OnLicenseCheck (first call).
+2022-10-22 16:54:17.264 [p=6104, t=0x1324] OnLicenseCheck: number of archives = 0.
+2022-10-22 18:13:23.489 [p=6104, t=0x45ac] CUAServer::SendInvalidQCToPartner - On Deactivate send invalid QCs to partner
+2022-10-22 18:13:23.497 [p=6104, t=0x2898] General: ProjectEvent: 4
+2022-10-22 18:13:23.547 [p=6104, t=0x2898] General: Start deactivating the project...
+2022-10-22 18:13:23.627 [p=6104, t=0x2898] General: Project deactivated
+2022-10-22 18:13:47.815 [p=6104, t=0x2898] General: ProjectEvent: 2
+2022-10-22 18:13:47.833 [p=6104, t=0x2898] General: Start closing the project...
+2022-10-22 18:13:47.844 [p=6104, t=0x2898] General: Start deactivating the project...
+2022-10-22 18:13:47.856 [p=6104, t=0x2898] CUAServer::DisconnectLicenseServices
+2022-10-22 18:13:48.144 [p=6104, t=0x2898] General: Disconnecting configuration.

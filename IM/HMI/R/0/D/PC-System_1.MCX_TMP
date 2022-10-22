@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MCX>
+	<ProjectLocation>
+		D:\Hoc hanh\Mang cong nghiep\TCP_MODBUS_FIXED\TCP_MODBUS_FIXED\IM\HMI\R\0\D\HMI_V25Z
+	</ProjectLocation>
+	<ProjectIsConsistent>
+		1
+	</ProjectIsConsistent>
+	<SharedMcxLocation>
+		
+	</SharedMcxLocation>
+	<ProjectLocationUNC>
+		\\TOAN\WinCC_Project_HMI_V25Z_1
+	</ProjectLocationUNC>
+	<RDP>
+	<LastModifiedDate>
+		2022-10-22 17:43:26
+	</LastModifiedDate>
+	</RDP>
+</MCX>
